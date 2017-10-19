@@ -1,2 +1,2 @@
 # hernanBeitech
-Examen practico para beitech presentado por Hernan Carreño
+Examen práctico para beitech presentado por Hernan Carreño
